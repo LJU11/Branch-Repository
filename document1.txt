@@ -1,4 +1,4 @@
-# modification
+# 오픈소스SW기초 과제
 
 def partition(l, r, nums):
     # Last element will be the pivot and the first element the pointer
